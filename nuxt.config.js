@@ -37,8 +37,6 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/buefy
     'nuxt-buefy',
-    'vue-router',
-    'vuex'
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
